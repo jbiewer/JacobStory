@@ -1,0 +1,9 @@
+Once upon a time, in a virtual world on an SSD far, far away, lived a byte.
+This byte was no ordinary byte, for he had a special name: !. 
+
+!'s favorite number was 33 (0x21 in HEX), and some of his hobbies are telling others to be opposite of what they are,
+and to change themselves to what they weren't before.
+
+One day, an evil Python came along and told ! he was no longer needed in this virtual world,
+for in the Python's world, ! didn't exist. ! was then banished back to the old object oriented world from which he
+was born in and Python then took over the internet. The end.
