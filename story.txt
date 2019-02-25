@@ -8,8 +8,6 @@ One day, an evil Python came along and told ! he was no longer needed in this vi
 for in the Python's world, ! didn't exist. ! was then banished back to the old object oriented world from which he
 was born in and Python then took over the internet.
 
-<<<<<<< HEAD
 Then Ryan realized the stick he saw earler was indeed python. 
-=======
+
 However, ! did not want to just give up so easilly. ! knew that he was still needed, that his ability would still be useful to the world.
->>>>>>> d77555bd0350c79b113e0ec48b933ff93f545e61
