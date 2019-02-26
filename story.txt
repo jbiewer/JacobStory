@@ -8,6 +8,11 @@ One day, an evil Python came along and told ! he was no longer needed in this vi
 for in the Python's world, ! didn't exist. ! was then banished back to the old object oriented world from which he
 was born in and Python then took over the internet.
 
-Then Ryan realized the stick he saw earler was indeed python. 
+Then Ryan realized the stick he saw earlier was indeed python. 
 
-However, ! did not want to just give up so easilly. ! knew that he was still needed, that his ability would still be useful to the world.
+However, ! did not want to just give up so easily. ! knew that he was still needed, that his ability would still be useful to the world.
+
+Because of this realization, ! had to go on a long journey to find his old friend, C. C was a powerful man, sometimes even thought of as a god
+by many. After a long journey, ! found C, but C was not what he used to be. So, C had to level up and became C++. ! and C++ then defeated Python
+for good and lived happy lives.
+
