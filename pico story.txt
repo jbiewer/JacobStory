@@ -1,0 +1,96 @@
+[33mcommit 3ee5afabaf4eec245fab9375907d173940549827[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jacob Biewer <biewer@royal-16.cs.wisc.edu>
+Date:   Mon Feb 25 17:58:12 2019 -0600
+
+    Added a little somethin-somethin to the readme.
+
+[33mcommit e2952bb0e655acbc18d6c246e10c2fe9b573d9de[m
+Author: Jacob Biewer <biewer@royal-16.cs.wisc.edu>
+Date:   Mon Feb 25 17:57:30 2019 -0600
+
+    fixed merge error
+
+[33mcommit 58c2f927379e46ccf368e7225f9fc162ab43d5c7[m
+Merge: 5afecda d77555b
+Author: Ryan Dundun <irobotyze@gmail.com>
+Date:   Mon Feb 25 17:51:50 2019 -0600
+
+    <ryandundun> addition
+
+[33mcommit 5afecda18535076d903e50060492855e7b7d57e8[m
+Author: Ryan Dundun <irobotyze@gmail.com>
+Date:   Mon Feb 25 17:47:16 2019 -0600
+
+    <ryandundun> addition
+
+[33mcommit d77555bd0350c79b113e0ec48b933ff93f545e61[m
+Author: Travis Bird <travis@royal-15.cs.wisc.edu>
+Date:   Mon Feb 25 17:38:59 2019 -0600
+
+    second paragraph
+
+[33mcommit e37810fcd2204723980917386084c254f2f83645[m
+Author: Jacob Biewer <biewer@royal-16.cs.wisc.edu>
+Date:   Mon Feb 25 17:17:01 2019 -0600
+
+    initial paragraph
+
+[33mcommit d90ff4e776fabfc3633326c7c3024971431ae383[m
+Author: Jacob Biewer <biewer@royal-11.cs.wisc.edu>
+Date:   Sun Feb 24 22:10:19 2019 -0600
+
+    initial paragraph
+
+[33mcommit 72f938ab8d4501148b2923fee05a43b41915927b[m
+Author: jbiewer <46933245+jbiewer@users.noreply.github.com>
+Date:   Sun Feb 24 22:08:57 2019 -0600
+
+    Initial commit
+[33mcommit 3ee5afabaf4eec245fab9375907d173940549827[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jacob Biewer <biewer@royal-16.cs.wisc.edu>
+Date:   Mon Feb 25 17:58:12 2019 -0600
+
+    Added a little somethin-somethin to the readme.
+
+[33mcommit e2952bb0e655acbc18d6c246e10c2fe9b573d9de[m
+Author: Jacob Biewer <biewer@royal-16.cs.wisc.edu>
+Date:   Mon Feb 25 17:57:30 2019 -0600
+
+    fixed merge error
+
+[33mcommit 58c2f927379e46ccf368e7225f9fc162ab43d5c7[m
+Merge: 5afecda d77555b
+Author: Ryan Dundun <irobotyze@gmail.com>
+Date:   Mon Feb 25 17:51:50 2019 -0600
+
+    <ryandundun> addition
+
+[33mcommit 5afecda18535076d903e50060492855e7b7d57e8[m
+Author: Ryan Dundun <irobotyze@gmail.com>
+Date:   Mon Feb 25 17:47:16 2019 -0600
+
+    <ryandundun> addition
+
+[33mcommit d77555bd0350c79b113e0ec48b933ff93f545e61[m
+Author: Travis Bird <travis@royal-15.cs.wisc.edu>
+Date:   Mon Feb 25 17:38:59 2019 -0600
+
+    second paragraph
+
+[33mcommit e37810fcd2204723980917386084c254f2f83645[m
+Author: Jacob Biewer <biewer@royal-16.cs.wisc.edu>
+Date:   Mon Feb 25 17:17:01 2019 -0600
+
+    initial paragraph
+
+[33mcommit d90ff4e776fabfc3633326c7c3024971431ae383[m
+Author: Jacob Biewer <biewer@royal-11.cs.wisc.edu>
+Date:   Sun Feb 24 22:10:19 2019 -0600
+
+    initial paragraph
+
+[33mcommit 72f938ab8d4501148b2923fee05a43b41915927b[m
+Author: jbiewer <46933245+jbiewer@users.noreply.github.com>
+Date:   Sun Feb 24 22:08:57 2019 -0600
+
+    Initial commit
